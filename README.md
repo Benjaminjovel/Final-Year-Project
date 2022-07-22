@@ -1,4 +1,4 @@
-# Final-Year-Project - AUTOMATIC LOGO DETECTION AND RECOGNITION IN GOOGLE STREET VIEW.
+# Final-Year-Project
 
 Project Title: Automatic Logo Detection and Recognition in Google Street View
 
